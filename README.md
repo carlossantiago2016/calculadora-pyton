@@ -1,1 +1,1 @@
-# calculadora-pyton
+# calculadora-pyton NO TIENE TKINTER
