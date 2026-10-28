@@ -1,3 +1,7 @@
 # calculadora-pyton NO TIENE TKINTER
 
-Soporte: soporteprogramVZCODE@outlook.com
+Dependecias:
+
+Python menor o 3.14 
+
+
